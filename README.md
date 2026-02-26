@@ -2,14 +2,13 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/sivarajv04/sivarajv04/main/assets/avatar.png"
-width="180"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0000,20:330000,60:990000,90:FF0000,100:FF0000&height=230&section=header&text=Sivaraj%20V&fontSize=60&fontAlign=50&fontColor=FFD000&animation=fadeIn&stroke=FF0000&strokeWidth=2"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,30:B22222,90:FF0000,100:FF0000&height=240&section=header&text=Sivaraj%20V&fontSize=60&fontAlign=50&fontColor=FFCC00&animation=fadeIn&stroke=FF0000&strokeWidth=3"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=FFD000&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Building+Production+AI+Systems;Computer+Vision+%7C+Generative+AI+%7C+ML+Infrastructure;Zoho+Intern+%7C+Infosys+AI+Intern"/>
 
 </p>
 
