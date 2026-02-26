@@ -187,6 +187,27 @@ title AI Skill Distribution
 
 ---
 
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivarajv04&bg_color=000000&color=ff0000&line=ff0000&point=ff3333&area=true&hide_border=true"/>
+
+</p>
+
+# 🐉 Pixel Dragon Hunting My Commits
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sivarajv04/sivarajv04/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sivarajv04&theme=github_dark"/>
+
+
+
+
 # 🐉 Dragon Guarding My Contributions
 
 <p align="center">
