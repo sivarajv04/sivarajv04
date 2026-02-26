@@ -1,0 +1,64 @@
+<svg viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+
+.dragon-body{
+fill:none;
+stroke:#6b3e26;
+stroke-width:8;
+stroke-linecap:round;
+stroke-dasharray:12 10;
+animation: move 6s linear infinite;
+}
+
+.dragon-outline{
+stroke:gold;
+stroke-width:2;
+fill:none;
+}
+
+.eye{
+fill:red;
+animation: blink 2s infinite;
+}
+
+.fire{
+fill:red;
+animation: fire 0.6s infinite alternate;
+}
+
+@keyframes move{
+from{stroke-dashoffset:0;}
+to{stroke-dashoffset:-400;}
+}
+
+@keyframes fire{
+from{transform:scale(1);}
+to{transform:scale(1.4);}
+}
+
+@keyframes blink{
+0%,100%{opacity:1;}
+50%{opacity:0;}
+}
+
+</style>
+
+<!-- dragon body -->
+<path class="dragon-body"
+d="M20 60 Q120 10 240 60 T480 60 T720 60 T880 60"/>
+
+<!-- outline -->
+<path class="dragon-outline"
+d="M20 60 Q120 10 240 60 T480 60 T720 60 T880 60"/>
+
+<!-- dragon head -->
+<circle cx="20" cy="60" r="12" fill="#6b3e26"/>
+
+<!-- eye -->
+<circle cx="17" cy="56" r="3" class="eye"/>
+
+<!-- fire tail -->
+<circle cx="880" cy="60" r="6" class="fire"/>
+
+</svg>
