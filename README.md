@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=FFD000&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Building+Production+AI+Systems;Computer+Vision+%7C+Generative+AI+%7C+ML+Infrastructure;Zoho+Intern+%7C+Infosys+AI+Intern"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Building+Production+AI+Systems;Computer+Vision+%7C+Generative+AI+%7C+ML+Infrastructure;Zoho+Intern+%7C+Infosys+AI+Intern"/>
 
 </p>
 
