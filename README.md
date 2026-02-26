@@ -2,9 +2,25 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0000,20:330000,60:990000,90:FF0000,100:FF0000&height=230&section=header&text=Sivaraj%20V&fontSize=60&fontAlign=50&fontColor=330000&animation=fadeIn&stroke=FF0000&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0000,20:330000,60:990000,90:FF0000,100:FF0000&height=180&section=header&text=Sivaraj%20V&fontSize=60&fontAlign=50&fontColor=330000&animation=fadeIn&stroke=FF0000&strokeWidth=2"/>
 
 </p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF0000?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-FF0000?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-FF0000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-FF0000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-FF0000?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-FF0000?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF0000?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-FF0000?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+</p>
+
 
 <p align="center">
 
