@@ -171,11 +171,11 @@ Supabase
 
 ---
 
-# 🔴 Dragon Hunting My Commits
+## 🔴 Dragon Hunting My Commits
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/sivarajv04/sivarajv04/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/sivarajv04/sivarajv04/main/dist/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
