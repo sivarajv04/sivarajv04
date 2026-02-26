@@ -196,11 +196,11 @@ title AI Skill Distribution
 
 </p>
 
-# 🐉 Pixel Dragon Hunting My Commits
+# 🐉 Dragon Hunting My Commits
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/sivarajv04/sivarajv04/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/sivarajv04/sivarajv04/output/github-contribution-grid-snake-dark.svg" />
 
 </p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sivarajv04&theme=github_dark"/>
