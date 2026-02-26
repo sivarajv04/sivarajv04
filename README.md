@@ -3,22 +3,22 @@
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/sivarajv04/sivarajv04/main/assets/avatar.png"
-width="180"
-style="border-radius:50%; border:5px solid #ff0000"/>
+width="180"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:ff0000&height=240&section=header&text=Sivaraj%20V&fontSize=60&fontAlign=50&fontColor=FFD700&animation=fadeIn&stroke=ff0000&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,30:B22222,90:FF0000,100:FF0000&height=240&section=header&text=Sivaraj%20V&fontSize=60&fontAlign=50&fontColor=FFCC00&animation=fadeIn&stroke=FF0000&strokeWidth=3"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Building+Production+AI+Systems;Computer+Vision+%7C+Generative+AI+%7C+ML+Infrastructure;Zoho+Intern+%7C+Infosys+AI+Intern"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=FFCC00&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Building+Production+AI+Systems;Computer+Vision+%7C+Generative+AI+%7C+ML+Infrastructure;Zoho+Intern+%7C+Infosys+AI+Intern"/>
 
 </p>
+
 
 ---
 
