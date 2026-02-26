@@ -187,6 +187,22 @@ title AI Skill Distribution
 
 ---
 
+# 🐉 Dragon Guarding My Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sivarajv04/sivarajv04/main/assets/dragon.svg" width="900"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+
+
 # 🐉 Contribution Dragon (Animated Snake)
 
 <p align="center">
