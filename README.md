@@ -14,6 +14,16 @@
 
 ---
 
+# 🔴 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivarajv04&bg_color=000000&color=ff0000&line=ff0000&point=ff3333&area=true&hide_border=true"/>
+
+</p>
+
+---
+
 # 🔴 About Me
 
 I’m **Sivaraj V**, an AI/ML engineer focused on building **real production-grade AI systems**.
@@ -161,15 +171,7 @@ Supabase
 
 ---
 
-# 🔴 Contribution Activity
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivarajv04&bg_color=000000&color=ff0000&line=ff0000&point=ff3333&area=true&hide_border=true"/>
-
-</p>
-
----
 
 ## 🔴 Dragon Hunting My Commits
 
