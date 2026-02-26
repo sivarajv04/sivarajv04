@@ -186,82 +186,16 @@ title AI Skill Distribution
 ```
 
 ---
+📈 Contribution Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivarajv04&bg_color=000000&color=ff0000&line=ff0000&point=ff3333&area=true&hide_border=true"/> </p>
+🐉 Dragon Hunting My Commits
+<p align="center"> <img src="https://raw.githubusercontent.com/sivarajv04/sivarajv04/output/github-contribution-grid-snake-dark.svg"/> </p>
+📊 GitHub Contribution Summary
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sivarajv04&theme=github_dark"/> </p> 
 
 
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivarajv04&bg_color=000000&color=ff0000&line=ff0000&point=ff3333&area=true&hide_border=true"/>
-
-</p>
-
-# 🐉 Dragon Hunting My Commits
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/sivarajv04/sivarajv04/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sivarajv04&theme=github_dark"/>
-
-
-
-
-# 🐉 Dragon Guarding My Contributions
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/sivarajv04/sivarajv04/main/assets/dragon.svg" width="900"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-
-
-# 🐉 Contribution Dragon (Animated Snake)
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-To create the **dragon-style snake animation**, add a GitHub Action:
 
 ```
-.github/workflows/snake.yml
-```
-
-Example:
-
-```
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: sivarajv04
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-```
-
-You can customize the **snake colors (brown + gold + red)** in the workflow.
-
----
 
 # 🧪 Featured Projects
 
