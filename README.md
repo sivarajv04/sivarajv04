@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0000,20:330000,60:990000,90:FF0000,100:FF0000&height=180&section=header&text=Sivaraj%20Velayutham&fontSize=60&fontAlign=50&fontColor=330000&animation=fadeIn&stroke=FF0000&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0000,20:330000,60:990000,90:FF0000,100:FF0000&height=180&section=header&text=Sivaraj%20Velayutham&fontSize=40&fontAlign=50&fontColor=330000&animation=fadeIn&stroke=FF0000&strokeWidth=2"/>
 
 </p>
 
